@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ThakurChat</string>
+
+    <string name="hint_email">EmailAddress</string>
+    <string name="hint_pass">Password</string>
+    <string name="txt_register">Need an account?Click Here</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="txt_login">Already Registered?Click Here</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_group_chat">Group Chat</string>
+    <string name="btn_send">Send</string>
+    <string name="hint_msg">Typer your message here</string>
+
 </resources>
